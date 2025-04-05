@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @mosslab
-- 👀 I’m interested in powershell and python
-- 🌱 I’m currently learning Windows devops and azure automation skills
-- 💞️ I’m looking to collaborate on nothing yet
-- 📫 How to reach me ...
+-  I’m mostly doing Windows centric stuff using powershell and python, learning Windows devops and azure automation skills etc.
+-  I like to tinker with both web and client apps.
 
 <!---
 mosslab/mosslab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
