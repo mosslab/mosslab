@@ -1,4 +1,4 @@
--  I’m mostly doing Windows centric stuff using powershell and python, learning Windows devops and azure automation skills etc.
+-  I’m mostly doing Windows centric stuff using PowerShell and python, learning Windows devops and azure automation skills etc.
 -  I like to tinker with both web and client apps.
 
 <!---
